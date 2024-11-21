@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ex3</string>
+    <string name="Primeiro">Primeiro Número</string>
+    <string name="Segundo">Segundo número</string>
+    <string name="Calcular">Calcular</string>
+    <string name="maior">Número maior</string>
+    <string name="menor">Número menor</string>
+</resources>
